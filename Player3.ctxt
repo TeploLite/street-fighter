@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Player3
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Player3()
+comment3.params=
+comment3.target=void\ gerakMaju()
+comment4.params=
+comment4.target=void\ tahan()
+comment5.params=
+comment5.target=void\ gerakMundur()
+comment6.params=
+comment6.target=void\ gerakMajulagi()
+comment7.params=
+comment7.target=void\ serang()
+numComments=8
